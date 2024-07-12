@@ -1,6 +1,6 @@
 .container-1{
-    border: 3px solid #87654;
-    width:200px;
+    border: 3px solid #8754;
+    width: 200px ;
 }
 .container-2{
   border: 3px solid red;
@@ -23,7 +23,7 @@
     width: 200px;
   }
   .container-7{
-    border: 3px solid white;
+    border: 3px solid rgb(235, 74, 74);
     width: 200px;
   }
   .container-8{
@@ -37,4 +37,26 @@
   .container-10{
     border: 3px solid yellow;
     width: 200px;
+  }
+.container-11{
+  border: 3px solid #3426;
+  width:200px;
+}
+.container-12{
+  border: 3px solid #7463;
+  width: 200px;
+  border-radius: 10px 10px 10px #000;
+}
+
+  .figcaption{
+    color: red;
+    text-shadow: 10px 10px 10px #000;
+
+  }
+  img{
+    box-shadow: 10px 10px 10px #000;
+    margin: 10px;
+    border: 3px solid #2527;
+    border-radius: 1px 1px 1px #000;
+ 
   }

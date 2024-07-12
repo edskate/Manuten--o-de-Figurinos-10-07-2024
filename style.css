@@ -1,12 +1,40 @@
-body{
-    width: 400px;
-}
 .container-1{
-    color: aqua;
-    border: 3px solid #000;
-    width: 300px;
-
+    border: 3px solid #87654;
+    width:200px;
 }
-img{
-    box-shadow: 10px 10px 10px #000;
+.container-2{
+  border: 3px solid red;
+  width: 200px;
 }
+.container-3{
+    border: 3px solid #1287;
+    width: 200px;
+  }
+  .container-4{
+    border: 3px solid #8373;
+    width: 200px;
+  }
+  .container-5{
+    border: 3px solid black;
+    width: 200px;
+  }
+  .container-6{
+    border: 3px solid green;
+    width: 200px;
+  }
+  .container-7{
+    border: 3px solid white;
+    width: 200px;
+  }
+  .container-8{
+    border: 3px solid blue;
+    width: 200px;
+  }
+  .container-9{
+    border: 3px solid green;
+    width: 200px;
+  }
+  .container-10{
+    border: 3px solid yellow;
+    width: 200px;
+  }
